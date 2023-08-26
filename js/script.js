@@ -43,5 +43,4 @@ document.addEventListener("DOMContentLoaded", (e) => {
     return a.localeCompare(b, undefined)
   });
   showList(FiltrarArray)
-  // Sugerencia de cómo mostrar el array => showList(strangeArray);
 });
